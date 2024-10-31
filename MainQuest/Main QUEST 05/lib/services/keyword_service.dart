@@ -14,6 +14,7 @@ Future<Map<String, String>> fetchKeywordAndStory(String imageUrl) async {
     // 서버로부터 성공적인 응답(200)을 받은 경우
     if (response.statusCode == 200) {
       var result = jsonDecode(response.body);  // 응답 본문을 JSON으로 디코딩
+      // jsonDecode(utf8.decode(response.bodyBytes));로 해야 한글로 추출이 가능함 - 정민님이 도와주심
       return {
         'keyword': result['class_name'],  // VGG16에서 추출한 키워드
         'story': result['story'],         // OpenAI API를 통해 생성된 스토리
