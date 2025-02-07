@@ -1,312 +1,218 @@
 <div align="center">
 
-  🕺 모두의연구소 - 아이펠 코어 9기 🕺
-====================
+  # 🕺 모두의연구소 - 아이펠 코어 9기 🕺
+  
+</div>
+
 ---
-</div>
-<br>
 
-📝 레포지토리 설명 📝
----------------------
+## 📝 레포지토리 설명
+
 <div align="center">
-  
-  <h3>본 레포지토리는 국비지원교육으로 진행된 <br>
-    <br> 아이펠 코어 9기를 수료한 김우찬의 수행 결과물입니다. <br>
-    
-    그림을 넣어보자
-    
-    <br> 훈련과정 : 인공지능 혁신학교 AIFFEL(아이펠) 코어과정  <br>
-    <br> 교육기간 : 2024.08.13~2025.02.12(6개월) </h3>
-  
-  <p>
-    버튼식 프롬프트 구조를 사용해 글을 모르는 아이들도 <br>
-    직접 원하는 동화를 창작할 수 있어요! <br>
-    또한 보호자가 원하는 교훈(ex. 양치질 잘하기 등)을 <br>
-    동화 속에 자연스럽게 녹여낼 수 있답니다.
-  </p>
-</div>
-<br>
-  
-  
-```
-# 디렉토리 구조는 본 코드블럭을 참고하여 작성합니다.
-# README파일에 작성할 땐 bash코드펜스에 넣어야 구조를 볼 수 있습니다 :)
-AIFFEL_quest_cr
-├── MainQuest
-│   ├── Quest01
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest02
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest03
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest04
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest05
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest06
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest07
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Quest08
-│       ├── .ipynb
-│       └── README.md
-├── Python
-│   ├── Sub Quest C 01
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Sub Quest C 02
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Sub Quest C 03
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Sub Quest C 04
-│       ├── .ipynb
-│       └── README.md
-├── Flutter
-│   ├── Sub Quest C 11
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Sub Quest C 12
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Sub Quest C 13
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Sub Quest C 14
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Sub Quest C 15
-│       ├── .ipynb
-│       └── README.md
-└── Exploration
-    ├── Sub Quest C 22
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Sub Quest C 23
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Sub Quest C 24
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Sub Quest C 25
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Sub Quest C 26
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Sub Quest C 27
-    │   ├── .ipynb
-    │   └── README.md
-    └── Sub Quest C 28
-        ├── .ipynb
-        └── README.md
-```
 
-👬👨🏻‍💻 전래좋군 소개 👨🏻‍💻👬
----------------------
-<div align="center">
-  
-| **Members** | **Roles** | **Responsibilities** |
-|:--|:--|:--|
-| 조정민([@SeongJae999](https://github.com/SeongJae999)) <br><sub>skanehfud279@gmail.com</sub> | Team Leader, Back-end Engineer | - 서버 및 데이터베이스 관리 <br> - Google Cloud Platform(GCP) 운영 |
-| 김민규([@incheonQ](https://github.com/incheonQ)) <br><sub>logisdatascience@gmail.com</sub> | Front-end Developer | - UI/UX 설계 및 구현 <br> - 버그 수정 및 디버깅 |
-| 이동수([@Lee-Dongsu](https://github.com/Lee-Dongsu)) <br><sub>ehdtnehdtn95@naver.com</sub> | AI, NLP, Prompt Engineer | - 프롬프트 설계 및 AI 모델 실험 <br> - QA, 사용자 및 모바일 서비스 테스트 |
-| 김우찬([@chanxxw](https://github.com/chanxxw)) <br><sub>strauss2327@gmail.com</sub> | Project Manager, Prompt Engineer | - 전략 기획, 리서치 및 마케팅 <br> - 이미지 프롬프트 엔지니어링 |
+**안녕하세요!**  
+이 레포지토리는 국비지원교육 **아이펠 코어 9기**를 수료한  
+**김우찬**의 멋진 수행 결과물을 담고 있어요!
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/cebbe94d-0ee9-4deb-aa5c-623033970849" width="30%">
+
+<br><br>
+
+**훈련과정:** 인공지능 혁신학교 AIFFEL (아이펠) 코어과정  
+**교육기간:** 2024.08.13 ~ 2025.02.12 (6개월)
 
 </div>
-
-<br>
-
-🤖 서비스 소개 🤖
----------------------
-1. **꿈꾸는 이야기 개요**  
-   - 만 4~6세 미취학 아동에게 특화된 생성형 AI 기반 창작동화 앱입니다.  
-   - 텍스트·이미지·TTS(음성) 서비스가 하나로 결합되어, 버튼 클릭만으로 동화를 만들 수 있어요.  
-   - 전래동화를 무료로 제공하고, ‘나만의 동화 만들기’는 구독 시스템을 통해 이용 가능합니다.  
-
-2. **기본 기능**  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bc1cf141-eec4-40c2-904f-6a54d6a57fd3" width="15%">
-</p>
-
-   - **나만의 동화 만들기**: 버튼식 프롬프트로 키워드를 선택하면, 해당 키워드를 바탕으로 텍스트·이미지·TTS가 자동 생성됩니다.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9395c94f-0b0c-4bdd-be4e-c3e6a0c5464d" width="18%">
-  <img src="https://github.com/user-attachments/assets/fff19fd1-9d0a-41a6-bb1d-79529a5801eb" width="18%">
-  <img src="https://github.com/user-attachments/assets/dae1d298-4362-4969-9174-81604a930c03" width="18%">
-  <img src="https://github.com/user-attachments/assets/055b9638-3523-497b-8341-c1678e3a8345" width="18%">
-  <img src="https://github.com/user-attachments/assets/fc4e7377-3449-45ed-b967-7fd1fcf28142" width="18%">
-</p>
-  
-   - **최근 동화**: 이전에 만들었던 ‘나만의 동화’를 다시 불러와 감상할 수 있습니다.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/831e3533-c18f-436c-b22c-66446ddef731" width="40%">
-</p>
-
-   - **무료 동화**: 고전 전래동화를 ‘꿈꾸는 이야기’ 형식에 맞춰 이미지·TTS와 함께 제공합니다.
-   - **로그인 화면**: Google API 연동 및 자체 회원가입으로 아이디·비밀번호 로그인, 비밀번호 찾기 기능을 지원합니다.  
-
-4. **부가 기능**  
-   - **온보딩**: 처음 사용하는 유저를 위한 앱 사용 방법 안내.
- 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/92fae671-5c59-4adf-a1f9-ffd098d5f235" width="15%">
-  </p>
-
-   - **기타 화면**  
-     - **구독 및 결제**: 월간/연간 구독(추후 도입 예정)  
-     - **설정**  
-       - 계정 관리(비밀번호 변경, 계정 삭제 등)  
-       - 앱 정보(이용 약관, 개인정보 처리 방침, 알림 설정)  
-       - 도움말 및 지원(FAQ, 고객지원)  
-
-5. **꿈꾸는 이야기의 특장점**  
-   - 정보 접근 취약계층도 스마트폰만 있다면 쉽게 동화를 만들 수 있어요.  
-   - 글을 모르는 미취학 아동도 버튼만 눌러 원하는 동화를 창작할 수 있습니다.  
-   - 보호자가 원하는 교훈을 스토리에 녹여, 아이들이 재미있게 사회 규칙을 배울 수 있도록 돕습니다.  
-
-> **자세한 내용은 3월에 공개될 유튜브 영상에서 확인하실 수 있습니다!**  
-
-<br>
-
-Tech Stack
----------------------
-### 🏗️ Core Technologies
-- **Fairy Tale Text Generation:** Claude 3.5 Sonnet  
-- **Image Generation:**  
-  - GPT-4o-mini (프롬프트 텍스트 생성)  
-  - FLUX.1-Schnell (이미지 생성 모델)  
-- **TTS (Text-to-Speech):** Google Cloud Speech API 2.0  
-
-### 📱 Frontend
-- **Flutter** – 모바일 UI 개발  
-- **Cursor.ai** – 개발 도구  
-
-### 🖥️ Backend & Infrastructure
-- **FastAPI** – API 서버  
-- **Firebase** – 데이터 관리  
-- **Google Cloud Platform(GCP)** – 클라우드 서비스  
-- **Ngrok** – 터널링 서비스  
-
-### 🧠 AI & Model Training
-- **LangChain** – AI 모델 연결  
-- **LoRA (Low-Rank Adaptation)** – 이미지 경량 모델 튜닝  
-- **ComfyUI** – Text-to-Image 모델용 노드 기반 GUI  
-
-<br>
-
- 
-🏛️ Architecture 🏛️
----------------------
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cfe671ab-d2f5-4d4c-a587-d38823a6d66c" width="40%">
-</p>
-
-<br>
-
-
-📚 시연 영상 및 발표자료 📚
----------------------
-> **자세한 내용은 3월에 공개될 유튜브 영상에서 확인하실 수 있습니다!**  
-
-
-<br>
-
-🌲 Project Tree 🎄
----------------------
-1. flutter dict  
-    ```
-    
-2. server dict
-    
-
-<br>
-
-
-🪪 License 🪪
----------------------
-- 본 앱은 API를 통해 다양한 서비스를 제공하고 있습니다. 서비스 이용 전 아래 라이선스 관련 정보를 꼭 확인해주세요.
-
-1. **이미지 생성: [FLUX](https://blackforestlabs.ai/)**   
-   <sub>- The FLUX.1 [dev] Model is licensed by Black Forest Labs. Inc. under the FLUX.1 [dev] Non-Commercial License.</sub> <br>
-   <sub>- Copyright Black Forest Labs. Inc. </sub>  <br>
-   <sub>- IN NO EVENT SHALL BLACK FOREST LABS, INC. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH USE OF THIS MODEL.</sub>
-
-3. **배경 음악**: Created with [Suno AI](https://suno.com/)  
-4. **아이콘**: [Icons8](https://icons8.com/)
-
-<br>
-
-> **본 프로젝트를 활용하길 원하실 경우, 먼저 팀 리더(조정민, skanehfud279@gmail.com)에게 메일로 문의 부탁드립니다.**
-
-<br>
-
-Reference
----------------------
-1. Technology References
-  - ComfyUI. Available at https://github.com/comfyanonymous/ComfyUI
-  - OpenArt Workflow. Available at https://openart.ai/workflows/home
-  - Civitai: LoRA. Available at https://civitai.com/user/juaner0211589
-  - Cursor.ai. Available at https://www.cursor.com/
-  - Flutter. Available at https://flutter.dev/
-  - Firebase. Available at https://firebase.google.com/
-  - Ngrok. Available at https://ngrok.com/
-  - FastAPI. Available at https://fastapi.tiangolo.com/
-2. 참고한 Mobile Apps
-  - 스토리셀프 [Mobile app]. Available at https://storyself.com/
-  - 오스카 [Mobile app]. Available at https://oscarstories.com/ko/
-  - AI 스토리 교실 [Mobile app]. Available at https://storyclass.ai/
-
-
-<br>
-
-
-Acknowledgements
----------------------
-이번 프로젝트를 성공적으로 진행할 수 있도록 도움을 주신 모든 분들께 감사드립니다.
-
-- [**@전효정**](https://www.linkedin.com/in/%ED%9A%A8%EC%A0%95-%EC%A0%84-11b8b2179/) – AIFFELthon Project Manager 🏆  
-- [**@조새벽**](https://www.linkedin.com/in/chochoq/) – Flutter Mentor 📱  
-- [**@오근철**](https://www.linkedin.com/in/gchrisoh/) – Modeling Mentor 🤖  
-
-여러분의 관심과 지원 덕분에 **전래좋군 팀**의 “꿈꾸는 이야기”가 탄생할 수 있었습니다. 정말 감사드립니다! 🙌
 
 <br>
 
 ---
-이 프로젝트는 [모두의연구소](https://modulabs.co.kr/) **아이펠 코어 9기** 과정에서 진행된 **아이펠톤**을 통해 기획·개발되었습니다.  
-**전래좋군 팀**에서 기획과 구현을 맡아 개발하였습니다.  
 
-<br>  
+## 🤖 퀘스트 소개
 
-> **문의 사항이나 협업 제안이 있으시다면 언제든 환영합니다.**  
-> 팀 리더(조정민)에게 메일(**skanehfud279@gmail.com**)로 연락 부탁드립니다.
+### **Quest B: 타팀을 이해시켜라**
+1. **Teacher (T) 팀**이 **Student (S) 팀**에게 학습 내용을 쉽고 빠르게 설명해요!  
+   - **T팀의 역할:** 학생들이 학습한 내용을 잘 이해했는지 확인하고 도와줍니다.  
+   - **S팀의 역할:** Teacher와 함께 피드백을 주고받으며 학습 내용을 익혀요.
+2. 퍼실리테이터님들과 S팀이 던전에서 함께 퀘스트를 수행해요.
+3. 퀘스트를 통과하면, T팀과 S팀 모두 귀여운 점수를 획득해요!
+
+<br>
+
+---
+
+### **Quest C-1: 페어프로그래밍**
+1. 두 사람이 **드라이버**와 **네비게이터** 역할을 맡아 함께 코딩해요.
+   - **드라이버 (Driver):** 네비게이터의 도움을 받아 코드를 작성해요.
+   - **네비게이터 (Navigator):** 드라이버에게 코딩 방향과 팁을 제시해요.
+2. 10분마다 역할을 교체하며 함께 멋진 코드를 완성해봐요!  *(예: Colab, Jupyter, VS Code 등 공유 가능한 플랫폼 사용)*
+
+<br>
+
+### **Quest C-2: 코드리뷰**
+1. C-1을 함께 진행한 팀원과 팀을 이루어 다른 팀과 코드 리뷰를 진행해요.
+2. 각 팀은 **코더**와 **리뷰어**로 나누어 진행해요:
+   - **코더 팀:** 작성한 코드를 왜 이렇게 만들었는지 자세하게 설명해요.
+   - **리뷰어 팀:** 코드를 보며 질문, 개선점, 회고를 작성해요.
+   - 리뷰가 끝난 후 서로의 역할을 바꿔서 리뷰를 진행해요.
+
+> **참고:** 각 퀘스트 폴더의 Readme.md 파일에 코드 리뷰 결과가 저장되어 있어요.  
+> **알림:** 아이펠 9기 코어과정에는 Quest A 과정은 없었습니다.
+
+<br>
+
+---
+
+## 🌲 디렉토리 구조
+### 📁 Python
+```
+├── 📂 Sub QUEST C 01
+├── 📂 Sub QUEST C 02
+├── 📂 Sub QUEST C 03
+├── 📂 Sub QUEST C 04
+└── 📂 Sub QUEST C 17
+
+```
+### 📁 Flutter
+```
+├── 📂 Sub QUEST C 11
+├── 📂 Sub QUEST C 12
+├── 📂 Sub QUEST C 13
+├── 📂 Sub QUEST C 14
+└── 📂 Sub QUEST C 15
+```
+
+### 📁 Exploration
+```
+├── 📂 Sub QUEST C 22 - 거울아 거울아, 나는 멍멍이 상이니 아니면 냥냥이 상이니?
+├── 📂 Sub QUEST C 23 - 뉴스 요약본 만들기
+├── 📂 Sub QUEST C 24 - 인물사진울 만들어보자 
+├── 📂 Sub QUEST C 25 - 인공지능으로 세상에 없던 새로운 패션 만들기
+├── 📂 Sub QUEST C 26 - 트랜스포머로 만드는 대화형 챗봇
+├── 📂 Sub QUEST C 27 - 수식 없이도 이해할 수 있는 ChatGPT와 Stable Diffusion
+└── 📂 Sub QUEST C 28 - 머신러닝 모델을 제품으로 만들어보자: MLOps 기초
+```
+
+### 📁 MainQuest
+```
+├── 📂 Main QUEST 01 - 은행계좌 만들기, 자동사냥 RPG 만들기
+├── 📂 Main QUEST 02 - 가랏 몬스터볼! 전설의 포켓몬 찾아 삼만리
+├── 📂 Main QUEST 03 - 폐렴아 기다려라
+├── 📂 Main QUEST 04 - DATAthon - 동규우승 - EDA
+├── 📂 Main QUEST 05 - Flutter 앱 개발
+├── 📂 Main QUEST 06 - DLthon - JellyDeep - DeepLearning
+├── 📂 Main QUEST 07 - 의료영상 U-NET 용종검출
+└── 📂 Main QUEST 08 - AIFFELthon - AI 창작동화: 꿈꾸는 이야기
+
+```
+<br>
+
+> **Sub Quest 05, 06, 07, 08, 09, 10, 16, 18, 19, 20, 21의 경우 Quest B로, 레포지토리에 업로드 되는 내용은 없습니다.**
+
+<br>
+
+## 🪪 본 과정에서 경험한 Tech Stack
+
+### 🚀 프로그래밍 언어 & 프레임워크
+- **Python** – 데이터 분석 및 AI 모델 개발  
+- **Dart** – Flutter 개발 언어  
+- **Flutter** – 크로스플랫폼 앱 개발 (Frontend)
+
+<br>
+
+### 🧠 인공지능 & 데이터 사이언스
+- **딥러닝 (Deep Learning)**
+- **머신러닝 (Machine Learning)**
+- **EDA (Exploratory Data Analysis)**
+- **Prompt Engineering** (텍스트, 이미지, API 활용)
+
+<br>
+
+### 🔧 기술 스택
+- **LoRA (Low-Rank Adaptation)** – 이미지 생성 모델 경량 튜닝  
+- **ComfyUI** – Text-to-Image 모델용 GUI 인터페이스  
+- **Google Cloud Platform (GCP)** – 클라우드 서비스 활용  
+- **Ngrok** – 로컬 서버 외부 공개 (터널링)  
+- **FastAPI** – API 서버 개발  
+- **LangChain** – AI 모델 연동
+
+<br>
+
+### 📡 API 활용
+- **텍스트 생성:**  
+  - 동화 생성 모델: Claude 3.5 Sonnet  
+  - 이미지 프롬프트 생성 모델: GPT-4o-mini  
+- **이미지 생성:** FLUX.1  
+- **TTS (Text-to-Speech):** Google Cloud Speech API 2.0
+
+
+<br>
+
+🏛️본 과정의 Project🏛️
+---------------------
+
+<div align="center">
+
+  #### 아이콘을 클릭하면 해당 레포지토리로 이동합니다.
+<p align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/chanxxw/AIFFEL_quest_cr/tree/master/MainQuest/Main%20QUEST%2004">
+                    <img src="https://github.com/user-attachments/assets/1b94553f-283d-45e3-8353-5c5e661845b2" alt="taekwondo_icon" width="200">
+                </a>
+                <br><b>DATAthon</b>
+            </td>
+            <td align="center">
+                <a href="https://github.com/chanxxw/AIFFEL_quest_cr/tree/master/MainQuest/Main%20QUEST%2006/jellydeep">
+                    <img src="https://github.com/user-attachments/assets/1ca86ddc-d194-463b-a35e-2b502517770a" alt="jellydeep" width="270">
+                </a>
+                <br><b>DLthon</b>
+            </td>
+            <td align="center">
+                <a href="https://github.com/SeongJae999/dreamingStory">
+                    <img src="https://github.com/user-attachments/assets/034b2cab-7027-49fd-8448-9c4be8a4191c" alt="전래좋군" width="200">
+                </a>
+                <br><b>AIFFELthon</b>
+            </td>
+        </tr>
+    </table>
+</p>
+</div>
+
+<br>
+
+
+## 🎖️ Acknowledgements
+
+이번 과정에서 아낌없는 지원과 격려를 보내주신 **퍼실리테이터님들과 매니저님**께 진심으로 감사드립니다.  
+여러분 덕분에 한 걸음 더 성장할 수 있었습니다! 💖  
+
+<br>
+
+### **👩‍🏫 퍼실리테이터 및 매니저**  
+- [**차정은**](https://www.linkedin.com/in/%EC%A0%95%EC%9D%80-%EC%B0%A8-33291a273/) – 언제나 열정 가득한 목소리로 9기 그루들을 끌고 가주신 감사한 퍼실님!  
+- **조웅제** – 언제나 든든한 지원군이 되어주신 퍼실님!  
+- [**이태환**](https://www.linkedin.com/in/leetaehwan/) – 9기 암흑기(?)를 같이 이겨내며 아이펠을 완주할 수 있도록 물심양면 지원해주신 퍼실님!  
+- **김성진** – 그루의 관점에서 같이 고민하며 그루들의 학습을 이끌어주신 퍼실님!  
+- [**전효정**](https://www.linkedin.com/in/%ED%9A%A8%EC%A0%95-%EC%A0%84-11b8b2179/) – **AIFFELthon Project Manager** 🏆  
+  - AIFFELthon 프로젝트를 성공적으로 이끌어주신 열정적인 퍼실님!  
+- **이윤선** – **운영 매니저**  
+  - 교육과정이 원활히 진행될 수 있도록 세심하게 챙겨주신 든든한 매니저님!  
+
+<br>
+<br>
+
+**모두의연구소와 아이펠 코어 9기의 모든 분들께 감사드립니다.**  
+함께한 시간들이 소중한 추억이 되길 바라며, 앞으로도 계속 성장해 나가겠습니다! 🚀✨  
+
+<br>
+<br>
 
 <hr>  
 <p align="center">
-  Made with 💖 by 전래좋군 팀
+  Made with 💖 by chanxxw
 </p>
 
-Homework for aiffel core  
-- 레포지토리에 대한 간략한 소개를 작성합니다.
-- 레포지토리 구조도를 작성합니다.
-  
-  * 레포지토리의 구조는 배포된 과정별 시간표를 참고합니다.
-    
-    + MainQuest폴더는 공통, 나머지는 C퀘스트가 있는 파트를 기준으로 폴더를 구성합니다.
-    + 예를들어 코어의 경우 MainQuest, Python, Fluttet, Exploration 네 개의 폴더를 구성합니다.
-    + 리서치의 경우 MainQuest, Exploration, GoingDeeper 세 개의 폴더를 구성합니다.
-    + 각 폴더의 하위에 퀘스트 갯수만큼 폴더를 추가해야 하고, 각각의 하위 폴더는 .ipynb파일과 README.md파일을 포함해야 합니다.
-    + *주의: 시간표에 따라 달라질 수 있으니 시간표 참고!!*
-        
+
