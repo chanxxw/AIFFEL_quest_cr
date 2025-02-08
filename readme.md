@@ -87,7 +87,7 @@
 ```
 ├── 📂 Sub QUEST C 22 - 거울아 거울아, 나는 멍멍이 상이니 아니면 냥냥이 상이니?
 ├── 📂 Sub QUEST C 23 - 뉴스 요약본 만들기
-├── 📂 Sub QUEST C 24 - 인물사진울 만들어보자 
+├── 📂 Sub QUEST C 24 - 인물사진을 만들어보자 
 ├── 📂 Sub QUEST C 25 - 인공지능으로 세상에 없던 새로운 패션 만들기
 ├── 📂 Sub QUEST C 26 - 트랜스포머로 만드는 대화형 챗봇
 ├── 📂 Sub QUEST C 27 - 수식 없이도 이해할 수 있는 ChatGPT와 Stable Diffusion
