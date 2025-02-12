@@ -193,7 +193,7 @@
 
 ### **👩‍🏫 퍼실리테이터 및 매니저**  
 - [**차정은**](https://www.linkedin.com/in/%EC%A0%95%EC%9D%80-%EC%B0%A8-33291a273/) – 언제나 열정 가득한 목소리로 9기 그루들을 끌고 가주신 감사한 퍼실님!  
-- **조웅제** – 언제나 든든한 지원군이 되어주신 퍼실님!  
+- [**조웅제**](https://www.linkedin.com/in/jo-woongje-5aaa16273/) – 언제나 든든한 지원군이 되어주신 퍼실님!  
 - [**이태환**](https://www.linkedin.com/in/leetaehwan/) – 9기 암흑기(?)를 같이 이겨내며 아이펠을 완주할 수 있도록 물심양면 지원해주신 퍼실님!  
 - **김성진** – 그루의 관점에서 같이 고민하며 그루들의 학습을 이끌어주신 퍼실님!  
 - [**전효정**](https://www.linkedin.com/in/%ED%9A%A8%EC%A0%95-%EC%A0%84-11b8b2179/) – **AIFFELthon Project Manager** 🏆  
